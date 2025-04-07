@@ -15,7 +15,7 @@ Inicio
    leia(codigo)
 
    enquanto codigo <> 4 faca
-   
+
    se codigo = 1 entao
       alcool <- alcool + 1
       escreva("Informe um codigo (1, 2, 3) ou 4 para parar:")
